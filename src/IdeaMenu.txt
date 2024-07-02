@@ -1,0 +1,34 @@
+Menù principale (Utente):
+1.	Visualizza prodotti a magazzino
+2.	Ricerca prodotti
+3.	Gestisci carrello
+4.	Visualizza spesa media
+
+5.	Aggiungi prodotto al magazzino
+6.	Modifica prodotto nel magazzino
+7.	Elimina prodotto dal magazzino
+8.	Visualizza giacenze di magazzino
+(Eventualmente 5,6,7,8 potrebbero anch’essi far parte di un sottomenù 5. Gestisci magazzino)
+
+9.	Termina operazione
+
+Funzionalità di ricerca prodotti (integrate nel menù principale):
+•	2.1 Ricerca per tipo
+•	2.2 Ricerca per produttore
+•	2.3 Ricerca per modello
+•	2.4 Ricerca per prezzo di vendita
+•	2.5 Ricerca per prezzo di acquisto
+•	2.6 Ricerca per range di prezzo
+
+Funzionalità di gestione del carrello (integrate nel menù principale):
+•	3.1 Visualizza carrello
+•	3.2 Aggiungi prodotto al carrello
+•	3.3 Rimuovi prodotto dal carrello
+•	3.4 Calcola totale carrello
+•	3.5 Concludi operazione d'acquisto
+
+OPZIONALE Funzionalità di gestione magazzino (integrate nel menù principale):
+•	5.1 Aggiungi prodotto al magazzino
+•	5.2 Modifica prodotto nel magazzino
+•	5.3 Elimina prodotto dal magazzino
+•	5.4 Visualizza giacenze di magazzino
